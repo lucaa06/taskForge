@@ -1,4 +1,13 @@
-Creare un'app del genere è un progetto ambizioso e davvero utile! Ti proporrò una soluzione completa con codice, un nome figo e un'icona che rappresenti la tua app. Chiamiamola TaskForge, perché "forgiare" le task rende l'idea di produttività e controllo totale sulle attività. 🔥
+TASK FORGE
+a simple task manager 
+
+required: 
+python
+  python -m pip install PyQt5
+
+SQLite Studio
+
+
 
 Caratteristiche dell'app:
 Si avvia automaticamente all'accensione del PC
